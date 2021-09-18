@@ -1,0 +1,44 @@
+could you send me the chrome extension please?
+Please use this link to install the extension: https://chrome.google.com/webstore/detail/gmail-based-customer-serv/fcinnggknmdfkilogcndkgpojpfojeem
+Hi, I need help joining randstadusa.com Hiver account.
+Please contact your Hiver admin who will add you to the Hiver account .
+why I try to assign an email is says "something went wrong, please try again later" everyone in my company that uses hiver has been having this same issue since yesterday
+Can you kindly follow the below steps to start a new Hiver session. Let me know if the issue persists after. 1. Close the Gmail tab(s) in the Chrome browser. 2. Manually copy and paste this URL (https://v2.hiverhq.com/logoutall)  in the address bar and press enter. 3. Close the next page which asks to enter your registered email address with Hiver. 4. Open a new tab in Chrome and log in to Gmail, then click on the Hiver icon with the exclamation mark and click on 'Login to Hiver".
+Hello I removed hiver extension yesterday, and was trying to reinstall today but its not reconnection correctly
+you can reach out to one of the Admin and they can help you add to the gopetplan.com HIver account.
+Is there a way to have emails both go into the shared inbox AND my normal inbox? Without this I think it will hamper adoption w/in the company
+Yes you can make the email go to Shared Mailbox and as well as to your personal inbox. In default Hiver condition, if an email gets assigned to it will also show up on your personal inbox. If you would like to get all the emails that are sent to Support Shared Mailbox, then you have to remove a Skip inbox Gmail filter that Hiver has created. You can go to Gmail settings > see all settings > under Filters and blocked address tab.You will see a Skip inbox filter created for the Support Shared Mailbox
+How do I add the Hiver add-on to my Gmail
+Please use this below link to add the Hiver extension in your chrome. https://chrome.google.com/webstore/detail/gmail-based-customer-serv/fcinnggknmdfkilogcndkgpojpfojeem
+Hello, I'm trying to get our from email address to automatically match the inbox. I chose the setting in Hiver but it's not working.
+Welcome to the Hiver Support. Please give me 2 minutes while I check with your account. Thank you for your patience. You can set the default email of the shared mailbox in the send mail as option. You will be able to find this under settings>see all settings>Account tab.
+Is there a way to setup an auto responder to a certain email address?
+As of now the autoreponder in Hiver will be toggled on for all the incoming emails to a Shared Mailbox address. Unfortunately it can not triggered for selected email address.Here is a knowledge article on auto responder- https://help.hiverhq.com/productivity/set-up-an-auto-responder
+Hi there, is there any way to make my default response from the shared inbox, not my personal gmail?
+Yes, that can be done from Gmail settings. Let me help you with the steps. Give me 2 minutes. Open Gmail settings(Gear icon) > See all settings > Accounts tab: Here, you will get the option to set email as default.
+Hi, I need help joining crowdcontrolwarehouse.com Hiver account.
+I request you to contact any of the admins  to add you to the Hiver account and then to the Shared mailboxes.
+When someone marks an email as spam. It gets removed from the original inbox and gets placed into our spam inbox but I have no information on who did it. Is there a way for Hiver to not remove it from the original inbox?
+Good Morning! We sadly cannot track this as Hiver does not control spam. Also, if an email is marked as spam, it goes outside the Hiver window
+Hello ... I can't assign hiver to employees right now or close queries out.
+please confirm if the "Conversation view" is enabled in your Gmail account. Refresh the page
+Also does each mailbox have its own tags etc?
+Yes, tags created in one of the mailbox will be available in that specific mailbox only.
+Hi how do I sort by email address and tag multiple emails at once ?
+You can use Hiver Bulk Action - https://help.hiverhq.com/email-tools/bulk-actions.These settings can only be accessed within the Shared Mailbox sections. And you can select 50 emails at once for this operation.
+can you walk me through how to set up an out of office message on my shared inboxes?
+You will find all the steps in our help article here.  https://help.hiverhq.com/productivity/set-up-an-auto-responder
+Is it possible to get a report of what is assigned to me daily?
+Yes, this can be achieved from the analytics report by selecting the "Schedule export".
+Hi there! Can you have more than one shared mailbox in Hiver?
+Yes, you can have unlimited Shared mailboxes in Hiver.
+How does that work with unassigned emails - do you have separate unassigned folders for each mailbox?
+You will be charged based on the number of users/members you add to the account.
+I do not see the analytics option
+Only the admins can access the Analytics feature in the Hiver account.
+I was wondering if there is a way to mass close all the current emails in our inbox: SD Info.
+You can use Hiver's Bulk Action feature to close 50 emails in one go. Here is how you can access this feature - Click here! Also, I can ask my engineering team to perform bulk closure of emails from the backend, if the volume of emails that needs to be closed is high.
+if we remove an email from the shared mailbox, can users of the shared inbox still access it?
+Once you remove or delete an email from the Shared Mailbox, the email will end up in your Trash in Gmail and for the rest of the users of the Shared Mailbox, the email will get archived (All Mail section).
+is there anyway to bulk add emails to our shared inbox?
+We can import the historical emails in the Hiver shared mailbox once you purchase one of our plans. The email import is a paid service and is free only for the paid customers.
